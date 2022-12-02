@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello There!; It's been a long time!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+It's+been+a+while)](https://git.io/typing-svg)
 
 I'm Daniel Doblas, a Bioinformatic and Software Engineer.
 
