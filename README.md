@@ -5,8 +5,7 @@ I'm Daniel Doblas, a Software Engineer.
 ---
 
 ### 👀 Interesting things to know about me
-  - ⚙️ I'm currently working at <a href='https://theworkshop.com/es/'>The Workshop</a> as a Jr Sosftwe Engineer.
-  - 📕 I'm learning Angular in depth.
+  - ⚙️ I'm currently working at <a href='https://theworkshop.com/es/'>The Workshop</a> as a Jr Data Engineer.
   - 🪄 I'm a game geek, an amateur magician and a lover of martial arts.
 
 ---
