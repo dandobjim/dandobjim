@@ -9,9 +9,6 @@ I'm Daniel Doblas, a Data Software Engineer.
   - 🪄 I'm a game geek and an amateur mentalist.
 
 ---
-### Stack
-RJPS (React, Java, PostgreSQL and Spring)
----
 
 ### 🤝 Conect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-doblas-jimenez/)
