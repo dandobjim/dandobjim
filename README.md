@@ -6,7 +6,7 @@ I'm Daniel Doblas, a Data Software Engineer.
 
 ### Stack
 
-My Stack is Java as a Backend Language (I'm studying Python also), Sprig Framework (Also django is in progress), Astro (with React), and PostgreSQL as a main DB.
+My Stack is Java as a Backend Language, Sprig Framework, Astro (with React), and PostgreSQL as a main DB.
 
 Due to my position I have knowledge in SQL, Kafka, Flink and Big Data.
 
