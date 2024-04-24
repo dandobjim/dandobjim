@@ -3,10 +3,16 @@
 I'm Daniel Doblas, a Data Software Engineer.
 
 ---
+### Stack
+My Stack is Java as a Backend Language (I'm studying Python also), Sprig Framework (Also django is in progress), Astro (with React), and PostgreSQL as a main DB.
+
+Due to my position I have knowledge in SQL, Kafka, Flink and Big Data.
+
+---
 
 ### 👀 Interesting things to know about me
   - ⚙️ I'm currently working at <a href='https://theworkshop.com/es/'>The Workshop</a> as a Jr Data Software Engineer.
-  - 🪄 I'm a game geek and an amateur mentalist.
+  - 🪄 I'm a martial artist and an amateur mentalist.
 
 ---
 
