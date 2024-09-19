@@ -10,7 +10,7 @@ I have experience working with:
 - **Domains**: Big Data, Data Engineering, Software Development
 
 ## 👀 A few interesting things about me:
-- 🚀 Currently working as a **Jr Software Engineer** at <a href='https://theworkshop.com/es/'>The Workshop</a>.
+- 🚀 Currently working as a **Jr Data Software Engineer** at <a href='https://theworkshop.com/es/'>The Workshop</a>.
 - 🥋 I'm a martial artist in my free time.
 
 Feel free to explore my projects or connect with me! Let's build something amazing together.
