@@ -14,7 +14,7 @@ I have experience working with:
 - **Domains**: Big Data, Data Engineering, Software Development
 
 ## 👀 A few interesting things about me:
-- 🚀 Currently working as a **Data Software Engineer** at <a href='https://www.ciklum.com/'>Ciklum</a>.
+- 🚀 Currently working as a **Data Engineer** at <a href='https://www.ciklum.com/'>Ciklum</a>.
 
 Feel free to explore my projects or connect with me! Let's build something amazing together.
 
