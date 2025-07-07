@@ -9,7 +9,7 @@ I am passionate about delivering clean, high-performance code and continuously i
 ## 🛠️ Tech Stack
 I have experience working with:
 
-- **Languages**: Java, SQL
+- **Languages**: Python, Java, SQL
 - **Technologies**: Apache Nifi, Apache Airflow, Apache Kafka, PostgreSQL, Docker
 - **Domains**: Big Data, Data Engineering, Software Development
 
