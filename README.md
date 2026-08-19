@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+It's+been+a+while!)](https://git.io/typing-svg)
 
-As a versatile developer with deep expertise in Java, Spring, and SQL, I bring a comprehensive approach to building robust, scalable backend systems. I complement this backend proficiency with a solid foundation in data engineering technologies, including design principles, allowing me to create seamless, end-to-end solutions.
+As a versatile developer with deep expertise in Python and SQL, I bring a comprehensive approach to building robust, scalable backend systems. I complement this backend proficiency with a solid foundation in data engineering technologies, including design principles, allowing me to create seamless, end-to-end solutions.
 
 My experience extends to working with complex data systems and integrations, utilizing PostgreSQL for efficient data management and leveraging Kafka for reliable, real-time data streaming. Additionally, I am skilled in enhance data processing, scripting, and automation tasks.
 
