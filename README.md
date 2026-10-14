@@ -10,7 +10,7 @@ I am passionate about delivering clean, high-performance code and continuously i
 I have experience working with:
 
 - **Languages**: Python, SQL
-- **Technologies**: FastAPI, Docker, PostgreSQL, DBT, Airflow
+- **Technologies**: FastAPI, Docker, PostgreSQL
 - **Domains**: Big Data, Data Engineering, Software Development
 
 ## 👀 A few interesting things about me:
