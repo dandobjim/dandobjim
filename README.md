@@ -1,21 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+It's+been+a+while!)](https://git.io/typing-svg)
+# Daniel Doblas Jiménez
 
-As a versatile developer with deep expertise in Python and SQL, I bring a comprehensive approach to building robust, scalable backend systems. I complement this backend proficiency with a solid foundation in data engineering technologies, including design principles, allowing me to create seamless, end-to-end solutions.
+Python backend & data engineer in Málaga, Spain. At [Ilkari](https://ilkari.tech/) I build
+the services and data platform behind a domain registration system (EPP).
 
-My experience extends to working with complex data systems and integrations, utilizing PostgreSQL for efficient data management and leveraging Kafka for reliable, real-time data streaming. Additionally, I am skilled in enhance data processing, scripting, and automation tasks.
+## What I work on
 
-I am passionate about delivering clean, high-performance code and continuously improving my skills to stay at the forefront of technology. With a strong commitment to collaborative problem-solving and a keen eye for detail, I’m excited to contribute to innovative projects and dynamic teams.
+- **Backend**: FastAPI, PostgreSQL, async Python
+- **Data**: dbt, Dagster, Airbyte, Polars
+- **Platform**: Docker, Kubernetes, GitHub Actions
 
-## 🛠️ Tech Stack
-I have experience working with:
+## Featured projects
 
-- **Languages**: Python, SQL
-- **Technologies**: FastAPI, Docker, PostgreSQL
-- **Domains**: Big Data, Data Engineering, Software Development
+| Project | What it demonstrates |
+| --- | --- |
+| [python-project-template](...) | Copier template: uv, Ruff, mypy strict, pinned CI, self-tested |
+| [Batch-Ingestion-Pipeline](...) | Batch ELT: API → Parquet → Postgres → dbt, orchestrated by Airflow |
+| [de-toolbox](...) | Reproducible DE environment, SQL with committed EXPLAIN ANALYZE plans |
 
-## 👀 A few interesting things about me:
-- 🚀 Currently working as a **Software engineer** at <a href='https://ilkari.tech/es/'>Ilkari</a>.
+## Writing
 
-Feel free to explore my projects or connect with me! Let's build something amazing together.
+- [Medium Profile](https://medium.com/@dandobjim_22678)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-doblas-jimenez/)
+## Contact
+
+[ddoblas.dev](https://ddoblas.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-doblas-jimenez/)
