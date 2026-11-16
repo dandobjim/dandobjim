@@ -5,7 +5,7 @@ the services and data platform behind a domain registration system (EPP).
 
 ## What I work on
 
-- **Backend**: FastAPI, PostgreSQL, async Python
+- **Backend**: Laravel, FastAPI
 - **Data**: dbt, Dagster, Airbyte, Polars
 - **Platform**: Docker, Kubernetes, GitHub Actions
 
