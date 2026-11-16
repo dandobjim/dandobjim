@@ -18,7 +18,7 @@ the services and data platform behind a domain registration system (EPP).
 | [de-toolbox](...) | Reproducible DE environment, SQL with committed EXPLAIN ANALYZE plans |
 
 ## Working on
-
+- [habit-tracker-api](https://github.com/dandobjim/habit-tracker-api)
 
 ## Writing
 
