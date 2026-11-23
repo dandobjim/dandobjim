@@ -19,6 +19,7 @@ the services and data platform behind a domain registration system (EPP).
 
 ## Working on
 
+- [Expenses Tracker](https://github.com/dandobjim/expenses-tracker)
 
 ## Writing
 
